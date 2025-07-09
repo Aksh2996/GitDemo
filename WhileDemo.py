@@ -7,7 +7,6 @@ while it>1:
     if it == 3:
         break
     print(it)
-    print("hello222")
 
 
     it = it - 1
