@@ -8,6 +8,7 @@ while it>1:
         break
     print(it)
     print("hello22")
+    print("ki")
 
 
     it = it - 1
