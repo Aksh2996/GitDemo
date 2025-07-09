@@ -9,10 +9,12 @@ while it>1:
     print(it)
     print("hello22")
     print("ki")
+    print("Ki2")
 
 
 
     it = it - 1
+    print("Yes")
 
 print('while loop execution is done')
 
