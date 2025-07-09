@@ -7,11 +7,7 @@ while it>1:
     if it == 3:
         break
     print(it)
-<<<<<<< HEAD
-=======
-    print("hello222")
-    print("branch")
->>>>>>> def
+
 
 
     it = it - 1
