@@ -7,7 +7,12 @@ while it>1:
     if it == 3:
         break
     print(it)
+<<<<<<< HEAD
 
+=======
+    print("hello22")
+    print("ki")
+>>>>>>> dev
 
 
     it = it - 1
